@@ -36,20 +36,20 @@ PlayroomKit is a product of Playroom, which greatly accelerates web game dev by 
 
 ## Featured
 
-- [Playroom Docs](https://docs.joinplayroom.com) - The official documentation of PlayroomKit
+- [Playroom Docs](https://docs.joinplayroom.com) - The official documentation of PlayroomKit.
 
 ## Open source games and boilerplates
 
 - [Platformer.ai](https://github.com/Muhammad-Saad12/platformer.ai) - A Mario-like N player sample cast game for PlayroomKit.
 
-- [vite-react-ts](https://github.com/grayhatdevelopers/vite-react-ts-multiplayer-game) - Multiplayer game template built in Vite, React, TypeScript and PlayroomKit 🚀 (works best with `create-multiplayer-game`)
+- [vite-react-ts](https://github.com/grayhatdevelopers/vite-react-ts-multiplayer-game) - Multiplayer game template built in Vite, React, TypeScript and PlayroomKit 🚀 (works best with `create-multiplayer-game`).
 
 
 ## Tooling
 
 - [Playroom Unity](https://github.com/asadm/playroom-unity) - The Playroom SDK, in Unity.
 
-- [create-multiplayer-game](https://github.com/grayhatdevelopers/create-multiplayer-game) - Create a multiplayer web game in seconds 👾🚀
+- [create-multiplayer-game](https://github.com/grayhatdevelopers/create-multiplayer-game) - Create a multiplayer web game in seconds.
 
 
 <!-- END CONTENT -->
