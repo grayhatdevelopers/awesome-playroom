@@ -1,30 +1,63 @@
-# Awesome List Template
+<div align="center">
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
-CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and
-[awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the
-beginning.
+<!-- title -->
 
-## Usage
+<!--lint ignore no-dead-urls-->
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. run a find & replace of `YOUR_GITHUB_USER/YOUR_REPO` with your details
-3. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image.
-4. choose a CI template
-   - GitHub Action: move config folder from `repo-root/ci/.github/` to
-     `repo-root/.github`
-   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to
-     `repo-root/.circleci/*`
-   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the
-     `repo-root/.gitlab-ci.yml`
-5. run a find & replace `readme-template.md` to `readme.md` in the CI you chose
-5. delete this file
-6. rename `readme-template.md` file to `readme.md`
+# 🏁 Awesome Playroom [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/grayhatdevelopers/awesome-playroom/actions/workflows/lint.yaml/badge.svg)](https://github.com/grayhatdevelopers/awesome-playroom/actions/workflows/lint.yaml)
+
+<!-- subtitle -->
+
+An awesome list for everything Playroom, the multiplayer library!
+
+<!-- image -->
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="" />
+</a>
+
+<!-- description -->
+
+PlayroomKit is a product of Playroom, which greatly accelerates web game dev by making games multiplayer within just a few lines. See
+[their website](https://joinplayroom.com) for more info.
+
+</div>
+
+<!-- TOC -->
+
+## Contents
+
+- [Featured (new releases)](#featured-new-releases)
+- [Open source games](#open-source-games)
+- [Follow](#follow)
+
+<!-- CONTENT -->
+
+## Featured (new releases)
+
+- [Playroom Docs](https://docs.joinplayroom.com) - The official documentation of PlayroomKit
+
+## Open source games
+
+- [Platformer.ai](https://github.com/Muhammad-Saad12/platformer.ai) - A Mario-like N player sample cast game for PlayroomKit.
+
+## Boilerplates
+
+- [create-multiplayer-game](https://github.com/grayhatdevelopers/create-multiplayer-game) - Create a multiplayer web game in seconds 👾🚀
+
+<!-- END CONTENT -->
+
+## Follow
+
+<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+
+- Tabish Ahmed ([Twitter](https://twitter.com/TaabiTweets))
+- Asad Memon ([Twitter](https://twitter.com/_asadmemon))
 
 ## Contributing
 
-Contributions welcome!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/grayhatdevelopers/awesome-playroom/graphs/contributors)!
