@@ -13,7 +13,7 @@ An awesome list for everything Playroom, the multiplayer library!
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+  <img src="https://joinplayroom.com/images/1.gif" />
 </a>
 
 <!-- description -->
