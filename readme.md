@@ -1,5 +1,3 @@
-<img width="498" alt="image" src="https://github.com/grayhatdevelopers/awesome-playroom/assets/51885228/26fc4e33-5353-4956-b3d2-b52cdc46ff7e"><div align="center">
-
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
