@@ -53,7 +53,7 @@ PlayroomKit is a product of Playroom, which greatly accelerates web game dev by 
 
 - [create-multiplayer-game](https://github.com/grayhatdevelopers/create-multiplayer-game) - Create a multiplayer web game in seconds.
 
-- [r3f-multiplayer-pirate-card-game](https://github.com/wass08/r3f-multiplayer-pirate-card-game) - 3D Multiplayer Card Game with JavaScript w/ React Three Fiber and Playroom Stream mode
+- [r3f-multiplayer-pirate-card-game](https://github.com/wass08/r3f-multiplayer-pirate-card-game) - 3D Multiplayer Card Game with JavaScript w/ React Three Fiber and Playroom Stream mode.
 
 <!-- END CONTENT -->
 
