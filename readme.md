@@ -44,7 +44,9 @@ PlayroomKit is a product of Playroom, which greatly accelerates web game dev by 
 
 - [vite-react-ts](https://github.com/grayhatdevelopers/vite-react-ts-multiplayer-game) - Multiplayer game template built in Vite, React, TypeScript and PlayroomKit 🚀 (works best with `create-multiplayer-game`).
 
-- [
+- [r3f-multiplayer-pirate-card-game](https://github.com/wass08/r3f-multiplayer-pirate-card-game) - 3D Multiplayer Card Game with JavaScript w/ React Three Fiber and Playroom Stream mode.
+
+- [next-ts](https://github.com/grayhatdevelopers/next-ts-multiplayer-game) - Multiplayer game template built in Nextjs, TypeScript and PlayroomKit 🚀 (works best with `create-multiplayer-game`).
 
 
 ## Tooling
@@ -52,8 +54,6 @@ PlayroomKit is a product of Playroom, which greatly accelerates web game dev by 
 - [Playroom Unity](https://github.com/asadm/playroom-unity) - The Playroom SDK, in Unity.
 
 - [create-multiplayer-game](https://github.com/grayhatdevelopers/create-multiplayer-game) - Create a multiplayer web game in seconds.
-
-- [r3f-multiplayer-pirate-card-game](https://github.com/wass08/r3f-multiplayer-pirate-card-game) - 3D Multiplayer Card Game with JavaScript w/ React Three Fiber and Playroom Stream mode.
 
 <!-- END CONTENT -->
 
