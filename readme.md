@@ -48,6 +48,8 @@ PlayroomKit is a product of Playroom, which greatly accelerates web game dev by 
 
 - [next-ts](https://github.com/grayhatdevelopers/next-ts-multiplayer-game) - Multiplayer game template built in Nextjs, TypeScript and PlayroomKit 🚀 (works best with `create-multiplayer-game`).
 
+- [discord-activity-starter](https://github.com/Hugo-Dz/discord-activity-starter) - A starter template for building Discord activities. It comes with all you need to create 3D activities, physics and multiplayer included ⚡️.
+
 
 ## Tooling
 
