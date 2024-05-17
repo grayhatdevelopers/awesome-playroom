@@ -50,6 +50,8 @@ PlayroomKit is a product of Playroom, which greatly accelerates web game dev by 
 
 - [discord-activity-starter](https://github.com/Hugo-Dz/discord-activity-starter) - A starter template for building Discord activities. It comes with all you need to create 3D activities, physics and multiplayer included ⚡️.
 
+- [wawa-guys-starter](https://github.com/wass08/wawa-guys-starter) - A Fall Guys clone with React Three Fiber, and PlayroomKit to make it multiplayer and playable within a Discord Activity.
+
 
 ## Tooling
 
